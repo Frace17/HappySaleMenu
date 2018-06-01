@@ -167,7 +167,7 @@
                                             <rect key="frame" x="81" y="23" width="83" height="20"/>
                                             <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                             <fontDescription key="fontDescription" type="system" pointSize="17"/>
-                                            <nil key="textColor"/>
+                                            <color key="textColor" red="1" green="0.1215686275" blue="0.54117647059999996" alpha="1" colorSpace="calibratedRGB"/>
                                             <nil key="highlightedColor"/>
                                         </label>
                                         <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="подписка до 12.03.19" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="VYx-fO-1qU">
@@ -248,6 +248,6 @@ Fime@HappySale.com</string>
         <image name="Group 4" width="46" height="42"/>
     </resources>
     <inferredMetricsTieBreakers>
-        <segue reference="qaC-tU-raK"/>
+        <segue reference="PQw-Vx-jno"/>
     </inferredMetricsTieBreakers>
 </document>
